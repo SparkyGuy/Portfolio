@@ -1,0 +1,26 @@
+*{
+  margin:0;
+  padding:0;
+  background-image: url(img/background.png);
+}
+
+.container{
+  width: 50%;
+  padding: 0;
+  margin: 0;
+  color: transparent;
+  text-align: center;
+}
+.light-text{
+
+  font-family: SairaCondensed;
+  color: rgb(182, 182, 182);
+}
+
+.light-text h1{
+ font-size: 70px;
+ padding: 0;
+}
+.light-text h3{
+  margin-right: 20px;
+}

@@ -1,0 +1,36 @@
+.header-container{
+padding:10px;
+height: 50px;
+display: flex;
+justify-content: space-between;
+}
+.topics{
+display: flex;
+align-items: center;
+}
+.topics-item{
+margin-left: 40px;
+justify-content: space-around;
+transition: transform 1s;
+color: rgb(182, 182, 182);
+font-family: SairaCondensed;
+
+}
+.topics-item:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    color:whitesmoke;   
+}
+.icon{
+    transition: transform 1s;
+}
+.icon:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    color:whitesmoke; 
+
+}
+.icons-container{
+    display: flex;
+    padding-right: 30px;
+}
