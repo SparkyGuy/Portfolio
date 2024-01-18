@@ -1,6 +1,5 @@
 import './header.css';
 import { VscGithub } from "react-icons/vsc";
-import { CgMail } from "react-icons/cg";
 
 function Header() {
     return (

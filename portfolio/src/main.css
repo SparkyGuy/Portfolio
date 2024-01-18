@@ -1,7 +1,6 @@
 *{
   margin:0;
   padding:0;
-  background-image: url(img/background.png);
 }
 
 .container{
@@ -23,4 +22,9 @@
 }
 .light-text h3{
   margin-right: 20px;
+}
+
+.icons-comp{
+  display: grid;
+
 }
